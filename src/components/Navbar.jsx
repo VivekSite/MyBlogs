@@ -9,7 +9,7 @@ function Navbar(){
                 <div style={{width:"60px", height:"30px", backgroundColor:"red", margin:"1rem", marginLeft:"3rem"}}></div>
 
                 <div style={{display:"flex", alignItems:"center", marginRight:"3rem"}}>
-                    <a href="https://github.com/VivekSite/MyBlogs" className="linkStyle" target="_blank">Home</a>
+                    <a href="https://viveksite.github.io/VivekPortfolio/" className="linkStyle" target="_blank">Home</a>
                     <a href="https://github.com/VivekSite/MyBlogs" className="linkStyle" target="_blank">Blogs</a>
                     <a href="https://github.com/VivekSite/MyBlogs" className="linkStyle" target="_blank">Skills</a>
                     <a href="https://github.com/VivekSite/MyBlogs" className="linkStyle" target="_blank">About</a>
