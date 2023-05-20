@@ -1,0 +1,11 @@
+a:hover{
+    color:rgb(112, 247, 144);
+    text-decoration: underline;
+}
+
+.linkStyle{
+    color: white;
+    text-decoration: none;
+    margin:1rem;
+    padding: 0.5rem;
+}
